@@ -1,0 +1,7 @@
+site_name: Documentação do Jogo Ilha Proibida
+
+nav:
+  - Index: index.md
+  - Introdução: introducao.md
+  - Instalação: instalacao.md
+  - Utilização: utilizacao.md
